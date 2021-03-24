@@ -1,7 +1,7 @@
 //Wykorzystaj zdarzenie onblur oraz onchange oraz wiedzę z przykładów powyżej i
 //napisz funkcje pomocnicze, które będą sprawdzały wartości w polach formularza
 //od razu po ich wypełnieniu (a nie podczas wysyłania formularza) i stosowały
-//właściwe podświetlenie oraz komunikat o błędzie. 
+ //właściwe podświetlenie oraz komunikat o błędzie. 
 
 
 function checkForm()
